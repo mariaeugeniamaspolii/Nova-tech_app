@@ -1,0 +1,11 @@
+{
+  "appId": "com.e.commerce.apps",
+  "appName": "obligatorio 2",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
